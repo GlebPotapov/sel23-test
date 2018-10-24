@@ -50,7 +50,7 @@ public void init()
 }
 
 @Test
-public void homeWork1 ()
+public void homeWork2 ()
 {
         driver.get("https://localhost/litecart/admin");
         driver.manage().window().maximize();
