@@ -1,14 +1,14 @@
 package ru.glebpotapov.selenium.test;
 
 
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.After;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -22,10 +22,12 @@ public class HomeWork1 {
     private WebDriver driver;
 
 
+
+
     public void waitSendString(String target, String send, WebDriver driver)
     {
         WebElement dynamicElement = (new WebDriverWait(driver, 10))
-            .until(ExpectedConditions.presenceOfElementLocated(By.name(target)));
+            .until(ExpectedConditions.presenceOfElementLocated(By.id(target)));
         dynamicElement.sendKeys(send);
     }
     public void findClick(String target, WebDriver driver)
@@ -45,17 +47,19 @@ public class HomeWork1 {
 @Before 
 public void init()
 {
-    System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
-    driver=new ChromeDriver();
+    //System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver.exe");
+    //driver=new ChromeDriver();
+    driver=new InternetExplorerDriver();
 }
 
 @Test
 public void homeWork1 ()
 {
-        driver.get("https://www.google.com/");
+
+        driver.get("https://ya.ru/");
         driver.manage().window().maximize();
-        waitSendString("q","Selenium webdriver",driver);
-        driver.findElement(By.name("q")).sendKeys(Keys.RETURN);
+        waitSendString("text","Selenium webdriver",driver);
+        driver.findElement(By.xpath("//*[@id=\"text\"]")).sendKeys(Keys.RETURN);
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 }
 
