@@ -49,57 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myTest_Chrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/myTest_Chrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="87" column="57" lean-forward="true" selection-start-line="87" selection-start-column="57" selection-end-line="87" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ColorCheck.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/ColorCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myTest_Firefox.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/myTest_Firefox.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-816">
-              <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myTest_IE.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/myTest_IE.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-915">
-              <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HomeWork5.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="465">
+              <caret line="55" column="61" lean-forward="true" selection-start-line="55" selection-start-column="61" selection-end-line="55" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#waitSendString#0;class#HomeWork5#0" expanded="false" />
@@ -109,13 +63,58 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeWork8.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomeWork4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeWork3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myTest_IE.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/myTest_IE.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeWork8.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="-595">
               <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeWork9.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#waitSendString#0;class#HomeWork9#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -171,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/myTest_Chrome.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/DateStamp.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork8.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork9.java" />
       </list>
     </option>
   </component>
@@ -304,7 +304,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/GitHubDesktop.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="JUnit.HomeWork8">
+  <component name="RunManager" selected="JUnit.HomeWork9">
     <configuration default="false" name="HomeWork6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -319,32 +319,6 @@
       <option name="MAIN_CLASS_NAME" value="ru.glebpotapov.selenium.test.HomeWork6" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="HomeWork6.homeWork6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.glebpotapov.selenium.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="seleniumGroup23PotapovGA" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.glebpotapov.selenium.test" />
-      <option name="MAIN_CLASS_NAME" value="ru.glebpotapov.selenium.test.HomeWork6" />
-      <option name="METHOD_NAME" value="homeWork6" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -423,6 +397,32 @@
       <option name="MAIN_CLASS_NAME" value="ru.glebpotapov.selenium.test.HomeWork8" />
       <option name="METHOD_NAME" value="homeWork8" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="HomeWork9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.glebpotapov.selenium.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="seleniumGroup23PotapovGA" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.glebpotapov.selenium.test" />
+      <option name="MAIN_CLASS_NAME" value="ru.glebpotapov.selenium.test.HomeWork9" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -692,18 +692,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.HomeWork6" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.HomeWork6.homeWork6" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.myTest_Chrome" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.HomeWork8" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.HomeWork8.homeWork8" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.myTest_Chrome" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.HomeWork8" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.HomeWork8.homeWork8" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.HomeWork9" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HomeWork8" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HomeWork8.homeWork8" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.myTest_Chrome" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.HomeWork6" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.HomeWork6.homeWork6" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HomeWork9" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.HomeWork8" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.HomeWork8.homeWork8" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.myTest_Chrome" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.HomeWork6" />
       </list>
     </recent_temporary>
   </component>
@@ -726,9 +726,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomeWork8 - 2018.11.07 at 15h 00m 48s.xml">
-      <configuration name="HomeWork8" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HomeWork8 - 2018.11.07 at 15h 04m 24s.xml">
       <configuration name="HomeWork8" configurationId="JUnit" />
     </history-entry>
@@ -755,6 +752,9 @@
     </history-entry>
     <history-entry file="HomeWork8_homeWork8 - 2018.11.07 at 15h 12m 22s.xml">
       <configuration name="HomeWork8.homeWork8" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HomeWork9 - 2018.11.07 at 16h 08m 36s.xml">
+      <configuration name="HomeWork9" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -917,22 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="58" column="4" lean-forward="false" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/myText_IE.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -967,16 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/myTest_IE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-915">
-          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/myTest_Chrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
@@ -993,18 +967,6 @@
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#waitSendString#0;class#HomeWork5#0" expanded="false" />
-            <element signature="method#waitClick#0;class#HomeWork5#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1037,10 +999,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="-595">
           <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="55" column="61" lean-forward="true" selection-start-line="55" selection-start-column="61" selection-end-line="55" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#waitSendString#0;class#HomeWork5#0" expanded="false" />
+            <element signature="method#waitClick#0;class#HomeWork5#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="57" column="20" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/myTest_IE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/glebpotapov/selenium/test/HomeWork9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#waitSendString#0;class#HomeWork9#0" expanded="false" />
           </folding>
         </state>
       </provider>
